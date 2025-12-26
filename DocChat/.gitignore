@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Vector DB / embeddings
+chroma_db/
+
+# OS
+.DS_Store
