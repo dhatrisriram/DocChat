@@ -14,18 +14,10 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Working
 
-> *(To add your screenshots, place image files in a folder named `assets/` and update the paths below)*
-
-### Document Upload & UI
-![Document Upload UI](assets/upload_ui.png)
-
-### Structured AI Response
-![AI Response](assets/ai_response.png)
-
-Users can upload multiple files and enter queries.  
-The LLM generates detailed, structured, and bulleted responses.
+![Example 1](assets/eg1)
+![Example 2](assets/eg2)
 
 ---
 
