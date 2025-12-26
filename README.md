@@ -16,8 +16,8 @@
 
 ## 📸 Working
 
-![Example 1](assets/eg1)
-![Example 2](assets/eg2)
+![Example 1](assets/eg1.png)
+![Example 2](assets/eg2.png)
 
 ---
 
@@ -54,10 +54,10 @@ gradio app.py
 
 You can tune retrieval behavior in vector_search.py:
 
-RELEVANCE_THRESHOLD
+- RELEVANCE_THRESHOLD
 Minimum similarity score for a document chunk to be considered
 (Default: 0.05)
 
-top_k
+- top_k
 Number of document chunks passed to the LLM
 (Default: 5)
