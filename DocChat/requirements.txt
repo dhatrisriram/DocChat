@@ -1,0 +1,26 @@
+# Core dependencies
+requests
+
+
+# PDF processing
+PyMuPDF
+python-docx
+pandas
+
+# NLP and embeddings
+sentence-transformers
+torch
+torchvision
+torchaudio
+spacy
+
+# Utilities
+tqdm
+numpy
+
+# Additional utilities
+python-dotenv
+scikit-learn
+chromadb
+gradio
+markdown
